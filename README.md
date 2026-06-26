@@ -1,8 +1,5 @@
 # smart-waste-segregation-system-
 Real-time AI-based waste classification using CNN and OpenCV
-# Smart Waste Segregation System
-
-Real-time AI-based waste classification using CNN and OpenCV
 
 ## About the Project
 This project uses a Convolutional Neural Network (CNN) to classify 
