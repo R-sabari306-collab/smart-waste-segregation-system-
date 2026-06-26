@@ -51,5 +51,5 @@ smart-waste-segregation-system/
 - Validation Accuracy: ~92%
 
 ## Developed By
-Sabari — B.E. ECE, Mepco Schlenk Engineering College, Sivakasi
+Sabari Perumal R — B.E. ECE, Mepco Schlenk Engineering College, Sivakasi
 GYAN-MITRA Hackathon 2026
